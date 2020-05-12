@@ -1,4 +1,4 @@
-[{
+{
       displayName: 'Home',
       iconName: 'close',
 	  route: '/',
@@ -94,4 +94,4 @@
 	  displayName: 'Reports',
 	  iconName: 'close',
 	  route: '/dashboard'
-	}]
+	}
